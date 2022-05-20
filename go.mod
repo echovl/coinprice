@@ -1,4 +1,4 @@
-module coinprice
+module github.com/echovl/coinprice
 
 go 1.16
 
